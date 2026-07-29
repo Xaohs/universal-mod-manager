@@ -10,5 +10,3 @@ Download: https://gamebanana.com/mods/693642
 
 This repository only hosts the published documentation.
 
-The `gh-pages` branch is generated output, built and force-pushed by CI.
-Do not edit it by hand; changes there are overwritten on the next deploy.
